@@ -130,6 +130,7 @@ EXPORTS
     lxw_rowcol_to_cell_abs
     lxw_rowcol_to_formula_abs
     lxw_rowcol_to_range
+    lxw_shape_properties_new
     lxw_rowcol_to_range_abs
     lxw_sst_assemble_xml_file
     lxw_sst_free

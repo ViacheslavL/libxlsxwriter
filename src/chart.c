@@ -29,6 +29,11 @@ typedef struct val_axis_args {
  * Forward declarations.
  */
 
+lxw_shape_properties* lxw_shape_properties_new()
+{
+    return calloc(1, sizeof(lxw_shape_properties));
+}
+
 /*****************************************************************************
  *
  * Private functions.
